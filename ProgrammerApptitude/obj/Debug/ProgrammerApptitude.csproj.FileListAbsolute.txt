@@ -1,0 +1,7 @@
+c:\users\au_xavier.watson\source\repos\ProgrammerApptitude\ProgrammerApptitude\bin\Debug\ProgrammerApptitude.exe.config
+c:\users\au_xavier.watson\source\repos\ProgrammerApptitude\ProgrammerApptitude\bin\Debug\ProgrammerApptitude.exe
+c:\users\au_xavier.watson\source\repos\ProgrammerApptitude\ProgrammerApptitude\bin\Debug\ProgrammerApptitude.pdb
+c:\users\au_xavier.watson\source\repos\ProgrammerApptitude\ProgrammerApptitude\obj\Debug\ProgrammerApptitude.csprojResolveAssemblyReference.cache
+c:\users\au_xavier.watson\source\repos\ProgrammerApptitude\ProgrammerApptitude\obj\Debug\ProgrammerApptitude.csproj.CoreCompileInputs.cache
+c:\users\au_xavier.watson\source\repos\ProgrammerApptitude\ProgrammerApptitude\obj\Debug\ProgrammerApptitude.exe
+c:\users\au_xavier.watson\source\repos\ProgrammerApptitude\ProgrammerApptitude\obj\Debug\ProgrammerApptitude.pdb
